@@ -25,9 +25,12 @@
       }
     },
     {"width":220,
+    "height":180,
+    "title": "No. of Routes",
       "mark": {"type": "line", "point": true},
       "encoding": {
         "x": {"field": "year",
+        "title":null,
         "scale": {"domain": {"param": "brush"}}},
         "y": {
           "field": "bus_route_in_operation",

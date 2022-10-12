@@ -10,7 +10,7 @@
     "bind": {
     "input": "range",
     "min": 50000,
-    "max": 150000,
+    "max": 350000,
     "step": 100,
     "name": "Zoom: "
     }
@@ -65,7 +65,7 @@
     }
   ],
   "config": {
-    "background":"lightskyblue",
+    "background":"#fbf9f0",
     "style": {
       "cell": {
         "stroke": "transparent"
